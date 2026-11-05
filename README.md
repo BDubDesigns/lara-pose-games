@@ -1,5 +1,7 @@
 # Lara's Pose Games — pose-arcade
 
+> RuneSweat moved out: the active RuneSpace game (Swing Lab, town hub, refiner) now lives in its own repo, [BDubDesigns/RuneSweat](https://github.com/BDubDesigns/RuneSweat) — live at https://bdubdesigns.github.io/RuneSweat/. This repo is now the Lara games' home (Space Invaders + Dance Pose Drop).
+
 A lightweight, modular framework for full-body camera pose games for a
 young child. Space Invaders + Dance Pose Drop. Single-player practice.
 
